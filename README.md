@@ -12,4 +12,4 @@ A collection of files for Hypertherm. Quote forms are in XML format and are used
 </br>
 </br>
 
-Copyright 2024 SafetyDav3
+Copyright© 2024 SafetyDav3
