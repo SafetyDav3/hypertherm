@@ -14,6 +14,12 @@ A collection of files for Hypertherm. Quote forms are in XML format and are used
 - Clever Techie: [XML Tutorial](https://www.youtube.com/watch?v=KeLiQXqVgMI) on YouTube
 - dcode: Parsing XML with javascript [Youtube video](https://www.youtube.com/watch?v=lUCQgqc4K2A)
 
+## FastReport
+
+- Uses Pascal for logic
+- Right side of UI has available parameters
+![FastReport UI](image-1.png)
+
 </br>
 </br>
 </br>
