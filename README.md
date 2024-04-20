@@ -18,6 +18,7 @@ A collection of files for Hypertherm. Quote forms are in XML format and are used
 
 - Uses Pascal for logic
 - Right side of UI has available parameters
+- Other logic languages: PascalScript, JScript, C++Script, BasicScript
 ![FastReport UI](image-1.png)
 
 </br>
